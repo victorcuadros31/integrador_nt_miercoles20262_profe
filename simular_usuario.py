@@ -19,6 +19,7 @@ random.seed(42)
 #activo (booleano),
 #fecha_registro (fecha y hora),
 
+
 #4 Definir el numero de datos simulados (Dataset)
 FILAS=400
 
