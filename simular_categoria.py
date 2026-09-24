@@ -11,13 +11,10 @@ Faker.seed(42)
 random.seed(42)
 
 #3 Definir el dato y su tipo a simular 
-#id (texto (UUID)),
-#nombre (texto),
-#correo (texto),
-#contraseña_hash (texto),
-#rol (texto),
-#activo (booleano),
-#fecha_registro (fecha y hora),
+#id (texto (UUID))
+#nombre (texto)
+#descripcion (texto)
+#area_responsable (texto)
 
 #4 Definir el numero de datos simulados (Dataset)
 FILAS=250
